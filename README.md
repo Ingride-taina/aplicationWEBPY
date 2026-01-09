@@ -41,4 +41,4 @@ As seguintes funcionalidades estão planejadas para versões futuras do projeto:
 -  Tratamento de respostas em **JSON** e dados ausentes
 -  Melhoria da experiência do usuário com carregamento dinâmico de dados
 
-Essas melhorias têm como objetivo aprofundar o uso de **APIs REST** e boas práticas de integração entre aplicações.
+Essas melhorias têm como objetivo aprofundar meu conhecimento no uso de **APIs REST** e boas práticas de integração entre aplicações.
