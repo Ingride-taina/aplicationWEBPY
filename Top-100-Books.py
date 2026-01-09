@@ -20,7 +20,7 @@ max_price = st.sidebar.slider("Price Range",
 df_books= df_top100_books[df_top100_books["book price"]<= max_price]
 
 #Título da página e exibição do dataframe filtrado
-st.title(" Top 100 Treding Books")
+st.title(" Top 100 Críticas de Livros Best-Sellados na Amazon")
 df_books
 
 #criando gráficos de barras e histograma
